@@ -1,0 +1,27 @@
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.exe
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.deps.json
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.runtimeconfig.json
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.runtimeconfig.dev.json
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.dll
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.pdb
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.csproj.AssemblyReference.cache
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.AssemblyInfoInputs.cache
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.AssemblyInfo.cs
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.csproj.CoreCompileInputs.cache
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.dll
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.pdb
+C:\Users\tabassum\source\repos\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.genruntimeconfig.cache
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.exe
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.deps.json
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.runtimeconfig.json
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.runtimeconfig.dev.json
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.dll
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\bin\Debug\netcoreapp3.1\ResultSheet.pdb
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.csproj.AssemblyReference.cache
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.AssemblyInfoInputs.cache
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.AssemblyInfo.cs
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.csproj.CoreCompileInputs.cache
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.dll
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.pdb
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.genruntimeconfig.cache
+D:\My Assignments\Assignment on C#\ResultSheet\ResultSheet\obj\Debug\netcoreapp3.1\ResultSheet.GeneratedMSBuildEditorConfig.editorconfig
